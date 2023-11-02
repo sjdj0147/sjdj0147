@@ -1,7 +1,2 @@
-==> Searching for similarly named formulae and casks...
-==> Formulae
-trufflehog
+Hello
 
-To install trufflehog, run:
-  brew install trufflehog
-#sjdj0147
