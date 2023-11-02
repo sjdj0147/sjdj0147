@@ -1,7 +1,1 @@
-==> Searching for similarly named formulae and casks...
-==> Formulae
-trufflehog
-
-To install trufflehog, run:
-  brew install trufflehog
-#sjdj0147
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjdj0147&show_icons=true&theme=radical)
