@@ -1,0 +1,14 @@
+repos:
+  - repo: https://github.com/ambv/black
+    rev: ''
+    hooks:
+      - id: black
+        language_version: python3.11.4  # Python 버전을 필요한 버전으로 업데이트해야 합니다.
+  - repo: https://github.com/pre-commit/mirrors-isort
+    rev: ''
+    hooks:
+      - id: isort
+  - repo: https://github.com/necaris/pre-commit-pyright
+    rev: ''
+    hooks:
+      - id: pyright
