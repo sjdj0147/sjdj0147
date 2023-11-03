@@ -7,7 +7,7 @@
 
 ## :school:School:school: :
 
-- **Seoulrobot HighSchool**
+- **Seoulrobot HighSchool(2021~2024)**
 
 
 ## 💻 DEV's log 💻
