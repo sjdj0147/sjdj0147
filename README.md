@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2952a1&height=150&section=header&text=sjdj0147&fontColor=52576e&fontSize=70&animation=fadeIn&fontAlignY=55)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=97bae4&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=52576e&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+sjdj0147's+GitHub!👋)](https://git.io/typing-svg)
 
 ## :wave:Hi there:wave: :
 
@@ -17,7 +17,7 @@
     </a>
 </div><br>
 <div>
-    <a href="https://github.com/sjdj0147/velog-readme-stats">
+    <a href="https://velog.io/@sjdj0147">
         <img src="https://velog-readme-stats.vercel.app/api?name=sjdj0147">
     </a>
 </div><br>
