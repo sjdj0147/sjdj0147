@@ -7,7 +7,7 @@ School:school: :
 
 - seoulrobot HighSchool
 
-link&emeil:e-mail::
+instagram link& gemeil:e-mail::
 
 [![Instagram](https://img.shields.io/badge/182._.dj-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/182._.dj/)
 <img src="https://img.shields.io/badge/sjdj014-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
