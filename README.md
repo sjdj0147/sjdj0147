@@ -3,7 +3,7 @@
 
 ## :wave:Hi there:wave: :
 
-- **Have a nice day! everyone! My name is DongJu Kwon, and my hobby is working out!**
+- **Have a nice day! everyone! My name is DongJu Kweon, and my hobby is working out!**
 
 ## :school:School:school: :
 
