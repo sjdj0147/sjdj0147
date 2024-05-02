@@ -18,7 +18,7 @@
 </div><br>
 <div>
     <a href="https://velog.io/@sjdj0147">
-        <img src="https://velog-readme-stats.vercel.app/api?name=sjdj0147">
+        <img src="https://velog-readme-stats.vercel.app/api?name=sjdj0147&color=black">
     </a>
 </div><br>
 
