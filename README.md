@@ -18,7 +18,7 @@
 </div><br>
 <div>
     <a href="https://velog.io/@sjdj0147">
-        [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sjdj0147)](https://velog.io/@sjdj0147/posts)
+        <img src="https://velog-readme-stats.vercel.app/api?name=sjdj0147">
     </a>
 </div><br>
 
